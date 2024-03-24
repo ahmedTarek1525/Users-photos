@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "6fa4",
+      "name": "Dawn Bode"
+    },
+    {
+      "id": "05bd",
+      "name": "Charles Langworth"
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "1e04",
+      "userId": 1,
+      "title": "Generic Fresh Chips"
+    },
+    {
+      "id": "038f",
+      "userId": "6fa4",
+      "title": "Elegant Concrete Fish"
+    },
+    {
+      "id": "4016",
+      "userId": "6fa4",
+      "title": "Luxurious Cotton Soap"
+    }
+  ],
+  "photos": [
+    {
+      "id": "40d5",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23698"
+    },
+    {
+      "id": "b956",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21297"
+    },
+    {
+      "id": "4f4a",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68379"
+    },
+    {
+      "id": "8366",
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22251"
+    }
+  ]
+}
